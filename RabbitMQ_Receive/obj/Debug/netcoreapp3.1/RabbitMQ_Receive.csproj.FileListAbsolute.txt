@@ -1,0 +1,17 @@
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ_Receive.exe
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ_Receive.deps.json
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ_Receive.runtimeconfig.json
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ_Receive.runtimeconfig.dev.json
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ_Receive.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ_Receive.pdb
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.csprojAssemblyReference.cache
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.AssemblyInfoInputs.cache
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.AssemblyInfo.cs
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.csproj.CoreCompileInputs.cache
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.csproj.CopyComplete
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.pdb
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Receive\obj\Debug\netcoreapp3.1\RabbitMQ_Receive.genruntimeconfig.cache

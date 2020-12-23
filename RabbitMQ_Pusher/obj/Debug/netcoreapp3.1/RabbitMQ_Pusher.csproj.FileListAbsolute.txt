@@ -1,0 +1,17 @@
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ_Pusher.exe
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ_Pusher.deps.json
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ_Pusher.runtimeconfig.json
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ_Pusher.runtimeconfig.dev.json
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ_Pusher.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ_Pusher.pdb
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.csprojAssemblyReference.cache
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.AssemblyInfoInputs.cache
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.AssemblyInfo.cs
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.csproj.CoreCompileInputs.cache
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.csproj.CopyComplete
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.dll
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.pdb
+C:\Users\okan.erdemir\Desktop\RabbitMQ_Example\RabbitMQ_Pusher\obj\Debug\netcoreapp3.1\RabbitMQ_Pusher.genruntimeconfig.cache
